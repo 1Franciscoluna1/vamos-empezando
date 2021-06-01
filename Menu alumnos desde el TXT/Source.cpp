@@ -4,8 +4,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #pragma warning(disable : 4996)
-#pragma warning(disable : 6387)
-
+#pragma warning(disable : 6387)//aqui comento el error alv
 
 
 
