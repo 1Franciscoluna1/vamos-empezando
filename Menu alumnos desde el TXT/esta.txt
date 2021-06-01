@@ -1,0 +1,6 @@
+pedirNumeros
+sumarlos
+restarlos
+multiplicarlos
+dividirlos
+profe
